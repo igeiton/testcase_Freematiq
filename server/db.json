@@ -1,0 +1,1218 @@
+{
+    "currencies": [
+        {
+            "USD": 1,
+            "AED": 3.6725,
+            "AFN": 71.951,
+            "AMD": 394.1169,
+            "ANG": 1.79,
+            "AOA": 844.4723,
+            "ARS": 864.75,
+            "AUD": 1.558,
+            "AWG": 1.79,
+            "AZN": 1.7002,
+            "BBD": 2,
+            "BDT": 109.7529,
+            "BGN": 1.8346,
+            "BHD": 0.376,
+            "BIF": 2853.7036,
+            "BMD": 1,
+            "BND": 1.3621,
+            "BOB": 6.9294,
+            "BRL": 5.2323,
+            "BSD": 1,
+            "BTN": 83.4473,
+            "BWP": 13.86,
+            "BYN": 3.2707,
+            "BZD": 2,
+            "CAD": 1.374,
+            "CDF": 2743.4315,
+            "CHF": 0.9089,
+            "CLP": 821.0168,
+            "CNY": 7.2402,
+            "COP": 3906.5593,
+            "CRC": 500.9199,
+            "CUP": 24,
+            "CVE": 103.4198,
+            "CZK": 23.7182,
+            "DJF": 177.721,
+            "DKK": 6.9959,
+            "DOP": 59.0326,
+            "DZD": 134.7456,
+            "EGP": 48.3367,
+            "ERN": 15,
+            "ETB": 56.9168,
+            "EUR": 0.9379,
+            "FJD": 2.2707,
+            "FKP": 0.8062,
+            "GBP": 0.8062,
+            "GEL": 2.6702,
+            "GGP": 0.8062,
+            "GHS": 13.5848,
+            "GIP": 0.8062,
+            "GMD": 66.0411,
+            "GNF": 8589.7392,
+            "GTQ": 7.7805,
+            "GYD": 209.4735,
+            "HKD": 7.8325,
+            "HNL": 24.726,
+            "HTG": 132.5421,
+            "HUF": 370.064,
+            "IDR": 16001.019,
+            "ILS": 3.7718,
+            "IMP": 0.8062,
+            "INR": 83.4473,
+            "IQD": 1310.8919,
+            "IRR": 42108.2844,
+            "ISK": 141.0195,
+            "JEP": 0.8062,
+            "JMD": 155.689,
+            "JOD": 0.709,
+            "JPY": 154.5133,
+            "KES": 132.3139,
+            "KGS": 89.2267,
+            "KHR": 4052.4208,
+            "KMF": 461.4266,
+            "KRW": 1355.7724,
+            "KWD": 0.3083,
+            "KYD": 0.8333,
+            "KZT": 446.7171,
+            "LAK": 20918.7442,
+            "LBP": 89500,
+            "LKR": 301.4145,
+            "LRD": 194.4604,
+            "LSL": 19.12,
+            "LYD": 4.8638,
+            "MAD": 10.1404,
+            "MDL": 17.9327,
+            "MGA": 4398.5749,
+            "MKD": 57.696,
+            "MMK": 2097.6574,
+            "MNT": 3361.7705,
+            "MOP": 8.0675,
+            "MUR": 46.4653,
+            "MVR": 15.4586,
+            "MWK": 1744.4513,
+            "MXN": 17.1435,
+            "MYR": 4.7823,
+            "MZN": 63.9354,
+            "NAD": 19.12,
+            "NGN": 1146.5609,
+            "NIO": 36.8312,
+            "NOK": 11.021,
+            "NPR": 133.5157,
+            "NZD": 1.6983,
+            "OMR": 0.3845,
+            "PAB": 1,
+            "PEN": 3.7547,
+            "PGK": 3.7994,
+            "PHP": 57.5316,
+            "PKR": 278.5732,
+            "PLN": 4.0571,
+            "PYG": 7371.8307,
+            "QAR": 3.64,
+            "RON": 4.6698,
+            "RSD": 109.9342,
+            "RUB": 93.471,
+            "RWF": 1304.9948,
+            "SAR": 3.75,
+            "SBD": 8.5057,
+            "SCR": 13.5449,
+            "SEK": 10.8538,
+            "SGD": 1.3621,
+            "SHP": 0.8062,
+            "SLL": 22639.3931,
+            "SOS": 571.6926,
+            "SRD": 34.7741,
+            "SYP": 12921.1773,
+            "THB": 36.876,
+            "TJS": 10.956,
+            "TMT": 3.5002,
+            "TND": 3.1575,
+            "TOP": 2.3582,
+            "TRY": 32.5715,
+            "TTD": 6.7548,
+            "TWD": 32.5087,
+            "TZS": 2583.714,
+            "UAH": 39.7777,
+            "UGX": 3809.7953,
+            "UYU": 38.8962,
+            "UZS": 12675.661,
+            "VND": 25388.1445,
+            "VUV": 122.2949,
+            "WST": 2.7751,
+            "XAF": 615.2355,
+            "XCD": 2.7,
+            "XOF": 615.2355,
+            "XPF": 111.9239,
+            "YER": 250.4269,
+            "ZAR": 19.1016,
+            "ZMW": 25.5227
+        }
+    ],
+    "fiats": [
+        {
+            "name": "Arabic dirham",
+            "symbol": "د.إ",
+            "id": "AED",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/aed.svg",
+            "emoji": "🇦🇪"
+        },
+        {
+            "name": "Afghan afghani",
+            "symbol": "؋",
+            "id": "AFN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/afn.svg",
+            "emoji": "🇦🇫"
+        },
+        {
+            "name": "Albanian lek",
+            "symbol": "Lek",
+            "id": "ALL",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/all.svg",
+            "emoji": "🇦🇱"
+        },
+        {
+            "name": "Armenian dram",
+            "symbol": "֏",
+            "id": "AMD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/amd.svg",
+            "emoji": "🇦🇲"
+        },
+        {
+            "name": "Netherlands Antillean guilder",
+            "symbol": "NAƒ",
+            "id": "ANG",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ang.svg",
+            "emoji": "🇨🇼"
+        },
+        {
+            "name": "Angolan kwanza",
+            "symbol": "Kz",
+            "id": "AOA",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/aoa.svg",
+            "emoji": "🇦🇴"
+        },
+        {
+            "name": "Argentine peso",
+            "symbol": "$",
+            "id": "ARS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ars.svg",
+            "emoji": "🇦🇷"
+        },
+        {
+            "name": "Australian dollar",
+            "symbol": "$",
+            "id": "AUD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/aud.svg",
+            "emoji": "🇦🇺"
+        },
+        {
+            "name": "Aruban florin",
+            "symbol": "ƒ",
+            "id": "AWG",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/awg.svg",
+            "emoji": "🇦🇼"
+        },
+        {
+            "name": "Azerbaijani manat",
+            "symbol": "Əm",
+            "id": "AZN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/azn.svg",
+            "emoji": "🇦🇿"
+        },
+        {
+            "name": "Barbadian dollar",
+            "symbol": "$",
+            "id": "BBD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bbd.svg",
+            "emoji": "🇧🇧"
+        },
+        {
+            "name": "Bangladeshi taka",
+            "symbol": "৳",
+            "id": "BDT",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bdt.svg",
+            "emoji": "🇧🇩"
+        },
+        {
+            "name": "Bulgarian lev",
+            "symbol": "лв",
+            "id": "BGN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bgn.svg",
+            "emoji": "🇧🇬"
+        },
+        {
+            "name": "Bahraini dinar",
+            "symbol": ".د.ب",
+            "id": "BHD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bhd.svg",
+            "emoji": "🇧🇭"
+        },
+        {
+            "name": "Burundian franc",
+            "symbol": "Fr",
+            "id": "BIF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bif.svg",
+            "emoji": "🇧🇮"
+        },
+        {
+            "name": "Bermudian dollar",
+            "symbol": "$",
+            "id": "BMD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bmd.svg",
+            "emoji": "🇧🇲"
+        },
+        {
+            "name": "Brunei dollar",
+            "symbol": "$",
+            "id": "BND",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bnd.svg",
+            "emoji": "🇧🇳"
+        },
+        {
+            "name": "Bolivian boliviano",
+            "symbol": "Bs.",
+            "id": "BOB",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bob.svg",
+            "emoji": "🇧🇴"
+        },
+        {
+            "name": "Brazilian real",
+            "symbol": "R$",
+            "id": "BRL",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/brl.svg",
+            "emoji": "🇧🇷"
+        },
+        {
+            "name": "Bahamian dollar",
+            "symbol": "$",
+            "id": "BSD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bsd.svg",
+            "emoji": "🇧🇸"
+        },
+        {
+            "name": "Bhutanese ngultrum",
+            "symbol": "Nu.",
+            "id": "BTN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/btn.svg",
+            "emoji": "🇧🇹"
+        },
+        {
+            "name": "Botswana pula",
+            "symbol": "P",
+            "id": "BWP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bwp.svg",
+            "emoji": "🇧🇼"
+        },
+        {
+            "name": "Belarusian ruble",
+            "symbol": "p.",
+            "id": "BYN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/byn.svg",
+            "emoji": "🇧🇾"
+        },
+        {
+            "name": "Belize dollar",
+            "symbol": "$",
+            "id": "BZD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bzd.svg",
+            "emoji": "🇧🇿"
+        },
+        {
+            "name": "Canadian dollar",
+            "symbol": "$",
+            "id": "CAD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/cad.svg",
+            "emoji": "🇨🇦"
+        },
+        {
+            "name": "Congolese franc",
+            "symbol": "Fr",
+            "id": "CDF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/cdf.svg",
+            "emoji": "🇨🇩"
+        },
+        {
+            "name": "Swiss franc",
+            "symbol": "Fr",
+            "id": "CHF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/chf.svg",
+            "emoji": "🇨🇭"
+        },
+        {
+            "name": "Chilean peso",
+            "symbol": "$",
+            "id": "CLP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/clp.svg",
+            "emoji": "🇨🇱"
+        },
+        {
+            "name": "Chinese yuan",
+            "symbol": "¥",
+            "id": "CNY",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/cny.svg",
+            "emoji": "🇨🇳"
+        },
+        {
+            "name": "Colombian peso",
+            "symbol": "$",
+            "id": "COP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/cop.svg",
+            "emoji": "🇨🇴"
+        },
+        {
+            "name": "Costa Rican colón",
+            "symbol": "₡",
+            "id": "CRC",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/crc.svg",
+            "emoji": "🇨🇷"
+        },
+        {
+            "name": "Cuban peso",
+            "symbol": "$",
+            "id": "CUP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/cup.svg",
+            "emoji": "🇨🇺"
+        },
+        {
+            "name": "Cape Verdean escudo",
+            "symbol": "$",
+            "id": "CVE",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/cve.svg",
+            "emoji": "🇨🇻"
+        },
+        {
+            "name": "Czech koruna",
+            "symbol": "Kč",
+            "id": "CZK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/czk.svg",
+            "emoji": "🇨🇿"
+        },
+        {
+            "name": "Djiboutian franc",
+            "symbol": "Fr",
+            "id": "DJF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/djf.svg",
+            "emoji": "🇩🇯"
+        },
+        {
+            "name": "Danish krone",
+            "symbol": "kr",
+            "id": "DKK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/dkk.svg",
+            "emoji": "🇩🇰"
+        },
+        {
+            "name": "Dominican peso",
+            "symbol": "$",
+            "id": "DOP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/dop.svg",
+            "emoji": "🇩🇴"
+        },
+        {
+            "name": "Algerian dinar",
+            "symbol": "د.ج",
+            "id": "DZD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/dzd.svg",
+            "emoji": "🇩🇿"
+        },
+        {
+            "name": "Egyptian pound",
+            "symbol": "£",
+            "id": "EGP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/egp.svg",
+            "emoji": "🇪🇬"
+        },
+        {
+            "name": "Eritrean nakfa",
+            "symbol": "Nfk",
+            "id": "ERN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ern.svg",
+            "emoji": "🇪🇷"
+        },
+        {
+            "name": "Ethiopian birr",
+            "symbol": "Br",
+            "id": "ETB",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/etb.svg",
+            "emoji": "🇪🇹"
+        },
+        {
+            "name": "Euro",
+            "symbol": "€",
+            "id": "EUR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/eur.svg",
+            "emoji": "🇪🇺"
+        },
+        {
+            "name": "Fijian dollar",
+            "symbol": "$",
+            "id": "FJD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/fjd.svg",
+            "emoji": "🇫🇯"
+        },
+        {
+            "name": "Falkland Islands pound",
+            "symbol": "£",
+            "id": "FKP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/fkp.svg",
+            "emoji": "🇫🇰"
+        },
+        {
+            "name": "Pound sterling",
+            "symbol": "£",
+            "id": "GBP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/gbp.svg",
+            "emoji": "🇬🇧"
+        },
+        {
+            "name": "Georgian lari",
+            "symbol": "₾",
+            "id": "GEL",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/gel.svg",
+            "emoji": "🇬🇪"
+        },
+        {
+            "name": "Guernsey pound",
+            "symbol": "£",
+            "id": "GGP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ggp.svg",
+            "emoji": "🇬🇬"
+        },
+        {
+            "name": "Ghanaian cedi",
+            "symbol": "₵",
+            "id": "GHS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ghs.svg",
+            "emoji": "🇬🇭"
+        },
+        {
+            "name": "Gibraltar pound",
+            "symbol": "£",
+            "id": "GIP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/gip.svg",
+            "emoji": "🇬🇮"
+        },
+        {
+            "name": "Gambian dalasi",
+            "symbol": "D",
+            "id": "GMD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/gmd.svg",
+            "emoji": "🇬🇲"
+        },
+        {
+            "name": "Guinean franc",
+            "symbol": "Fr",
+            "id": "GNF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/gnf.svg",
+            "emoji": "🇬🇳"
+        },
+        {
+            "name": "Guatemalan quetzal",
+            "symbol": "Q",
+            "id": "GTQ",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/gtq.svg",
+            "emoji": "🇬🇹"
+        },
+        {
+            "name": "Guyanese dollar",
+            "symbol": "$",
+            "id": "GYD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/gyd.svg",
+            "emoji": "🇬🇾"
+        },
+        {
+            "name": "Hong Kong dollar",
+            "symbol": "$",
+            "id": "HKD",
+            "flag": "https",
+            "emoji": "🇭🇰"
+        },
+        {
+            "name": "Honduran lempira",
+            "symbol": "L",
+            "id": "HNL",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/hnl.svg",
+            "emoji": "🇭🇳"
+        },
+        {
+            "name": "Croatian kuna",
+            "symbol": "kn",
+            "id": "HRK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/hrk.svg",
+            "emoji": "🇭🇷"
+        },
+        {
+            "name": "Haitian gourde",
+            "symbol": "G",
+            "id": "HTG",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/htg.svg",
+            "emoji": "🇭🇹"
+        },
+        {
+            "name": "Hungarian forint",
+            "symbol": "Ft",
+            "id": "HUF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/huf.svg",
+            "emoji": "🇭🇺"
+        },
+        {
+            "name": "Indonesian rupiah",
+            "symbol": "Rp",
+            "id": "IDR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/idr.svg",
+            "emoji": "🇮🇩"
+        },
+        {
+            "name": "Israeli new shekel",
+            "symbol": "₪",
+            "id": "ILS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ils.svg",
+            "emoji": "🇮🇱"
+        },
+        {
+            "name": "Manx pound",
+            "symbol": "£",
+            "id": "IMP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/imp.svg",
+            "emoji": "🇮🇲"
+        },
+        {
+            "name": "Indian rupee",
+            "symbol": "₹",
+            "id": "INR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/inr.svg",
+            "emoji": "🇮🇳"
+        },
+        {
+            "name": "Iraqi dinar",
+            "symbol": "د.ع",
+            "id": "IQD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/iqd.svg",
+            "emoji": "🇮🇶"
+        },
+        {
+            "name": "Iranian rial",
+            "symbol": "﷼",
+            "id": "IRR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/irr.svg",
+            "emoji": "🇮🇷"
+        },
+        {
+            "name": "Icelandic króna",
+            "symbol": "kr",
+            "id": "ISK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/isk.svg",
+            "emoji": "🇮🇸"
+        },
+        {
+            "name": "Jersey pound",
+            "symbol": "£",
+            "id": "JEP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/jep.svg",
+            "emoji": "🇯🇪"
+        },
+        {
+            "name": "Jamaican dollar",
+            "symbol": "$",
+            "id": "JMD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/jmd.svg",
+            "emoji": "🇯🇲"
+        },
+        {
+            "name": "Jordanian dinar",
+            "symbol": "د.ا",
+            "id": "JOD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/jod.svg",
+            "emoji": "🇯🇴"
+        },
+        {
+            "name": "Japanese yen",
+            "symbol": "¥",
+            "id": "JPY",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/jpy.svg",
+            "emoji": "🇯🇵"
+        },
+        {
+            "name": "Kenyan shilling",
+            "symbol": "KSh",
+            "id": "KES",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/kes.svg",
+            "emoji": "🇰🇪"
+        },
+        {
+            "name": "Kyrgyzstani som",
+            "symbol": "с",
+            "id": "KGS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/kgs.svg",
+            "emoji": "🇰🇬"
+        },
+        {
+            "name": "Cambodian riel",
+            "symbol": "៛",
+            "id": "KHR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/khr.svg",
+            "emoji": "🇰🇭"
+        },
+        {
+            "name": "Comorian franc",
+            "symbol": "Fr",
+            "id": "KMF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/kmf.svg",
+            "emoji": "🇰🇲"
+        },
+        {
+            "name": "North Korean won",
+            "symbol": "₩",
+            "id": "KPW",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/kpw.svg",
+            "emoji": "🇰🇵"
+        },
+        {
+            "name": "South Korean won",
+            "symbol": "₩",
+            "id": "KRW",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/krw.svg",
+            "emoji": "🇰🇷"
+        },
+        {
+            "name": "Kuwaiti dinar",
+            "symbol": "د.ك",
+            "id": "KWD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/kwd.svg",
+            "emoji": "🇰🇼"
+        },
+        {
+            "name": "Cayman Islands dollar",
+            "symbol": "$",
+            "id": "KYD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/kyd.svg",
+            "emoji": "🇰🇾"
+        },
+        {
+            "name": "Kazakhstani tenge",
+            "symbol": "₸",
+            "id": "KZT",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/kzt.svg",
+            "emoji": "🇰🇿"
+        },
+        {
+            "name": "Lao kip",
+            "symbol": "₭",
+            "id": "LAK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/lak.svg",
+            "emoji": "🇱🇦"
+        },
+        {
+            "name": "Lebanese pound",
+            "symbol": "ل.ل",
+            "id": "LBP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/lbp.svg",
+            "emoji": "🇱🇧"
+        },
+        {
+            "name": "Sri Lankan rupee",
+            "symbol": "රු",
+            "id": "LKR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/lkr.svg",
+            "emoji": "🇱🇰"
+        },
+        {
+            "name": "Liberian dollar",
+            "symbol": "$",
+            "id": "LRD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/lrd.svg",
+            "emoji": "🇱🇷"
+        },
+        {
+            "name": "Lesotho loti",
+            "symbol": "L",
+            "id": "LSL",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/lsl.svg",
+            "emoji": "🇱🇸"
+        },
+        {
+            "name": "Libyan dinar",
+            "symbol": "ل.د",
+            "id": "LYD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/lyd.svg",
+            "emoji": "🇱🇾"
+        },
+        {
+            "name": "Moroccan dirham",
+            "symbol": "د.م.",
+            "id": "MAD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mad.svg",
+            "emoji": "🇲🇦"
+        },
+        {
+            "name": "Moldovan leu",
+            "symbol": "L",
+            "id": "MDL",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mdl.svg",
+            "emoji": "🇲🇩"
+        },
+        {
+            "name": "Malagasy ariary",
+            "symbol": "Ar",
+            "id": "MGA",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mga.svg",
+            "emoji": "🇲🇬"
+        },
+        {
+            "name": "Macedonian denar",
+            "symbol": "ден",
+            "id": "MKD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mkd.svg",
+            "emoji": "🇲🇰"
+        },
+        {
+            "name": "Myanmar kyat",
+            "symbol": "Ks",
+            "id": "MMK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mmk.svg",
+            "emoji": "🇲🇲"
+        },
+        {
+            "name": "Mongolian tögrög",
+            "symbol": "₮",
+            "id": "MNT",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mnt.svg",
+            "emoji": "🇲🇳"
+        },
+        {
+            "name": "Macanese pataca",
+            "symbol": "MOP$",
+            "id": "MOP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mop.svg",
+            "emoji": "🇲🇴"
+        },
+        {
+            "name": "Mauritanian ouguiya",
+            "symbol": "UM",
+            "id": "MRO",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mro.svg",
+            "emoji": "🇲🇷"
+        },
+        {
+            "name": "Mauritian rupee",
+            "symbol": "₨",
+            "id": "MUR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mur.svg",
+            "emoji": "🇲🇺"
+        },
+        {
+            "name": "Maldivian rufiyaa",
+            "symbol": ".ރ",
+            "id": "MVR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mvr.svg",
+            "emoji": "🇲🇻"
+        },
+        {
+            "name": "Malawian kwacha",
+            "symbol": "MK",
+            "id": "MWK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mwk.svg",
+            "emoji": "🇲🇼"
+        },
+        {
+            "name": "Mexican peso",
+            "symbol": "$",
+            "id": "MXN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mxn.svg",
+            "emoji": "🇲🇽"
+        },
+        {
+            "name": "Malaysian ringgit",
+            "symbol": "RM",
+            "id": "MYR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/myr.svg",
+            "emoji": "🇲🇾"
+        },
+        {
+            "name": "Mozambican metical",
+            "symbol": "MT",
+            "id": "MZN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/mzn.svg",
+            "emoji": "🇲🇿"
+        },
+        {
+            "name": "Namibian dollar",
+            "symbol": "$",
+            "id": "NAD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/nad.svg",
+            "emoji": "🇳🇦"
+        },
+        {
+            "name": "Nigerian naira",
+            "symbol": "₦",
+            "id": "NGN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ngn.svg",
+            "emoji": "🇳🇬"
+        },
+        {
+            "name": "Nicaraguan córdoba",
+            "symbol": "C$",
+            "id": "NIO",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/nio.svg",
+            "emoji": "🇳🇮"
+        },
+        {
+            "name": "Norwegian krone",
+            "symbol": "kr",
+            "id": "NOK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/nok.svg",
+            "emoji": "🇳🇴"
+        },
+        {
+            "name": "Nepalese rupee",
+            "symbol": "रू",
+            "id": "NPR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/npr.svg",
+            "emoji": "🇳🇵"
+        },
+        {
+            "name": "New Zealand dollar",
+            "symbol": "$",
+            "id": "NZD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/nzd.svg",
+            "emoji": "🇳🇿"
+        },
+        {
+            "name": "Omani rial",
+            "symbol": "ر.ع.",
+            "id": "OMR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/omr.svg",
+            "emoji": "🇴🇲"
+        },
+        {
+            "name": "Panamanian balboa",
+            "symbol": "B/.",
+            "id": "PAB",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/pab.svg",
+            "emoji": "🇵🇦"
+        },
+        {
+            "name": "Peruvian nuevo sol",
+            "symbol": "S/.",
+            "id": "PEN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/pen.svg",
+            "emoji": "🇵🇪"
+        },
+        {
+            "name": "Papua New Guinean kina",
+            "symbol": "K",
+            "id": "PGK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/pgk.svg",
+            "emoji": "🇵🇬"
+        },
+        {
+            "name": "Philippine peso",
+            "symbol": "₱",
+            "id": "PHP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/php.svg",
+            "emoji": "🇵🇭"
+        },
+        {
+            "name": "Pakistani rupee",
+            "symbol": "₨",
+            "id": "PKR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/pkr.svg",
+            "emoji": "🇵🇰"
+        },
+        {
+            "name": "Polish złoty",
+            "symbol": "zł",
+            "id": "PLN",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/pln.svg",
+            "emoji": "🇵🇱"
+        },
+        {
+            "name": "Paraguayan guaraní",
+            "symbol": "₲",
+            "id": "PYG",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/pyg.svg",
+            "emoji": "🇵🇾"
+        },
+        {
+            "name": "Qatari riyal",
+            "symbol": "ر.ق",
+            "id": "QAR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/qar.svg",
+            "emoji": "🇶🇦"
+        },
+        {
+            "name": "Romanian leu",
+            "symbol": "lei",
+            "id": "RON",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ron.svg",
+            "emoji": "🇷🇴"
+        },
+        {
+            "name": "Serbian dinar",
+            "symbol": "din.",
+            "id": "RSD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/rsd.svg",
+            "emoji": "🇷🇸"
+        },
+        {
+            "name": "Russian ruble",
+            "symbol": "₽",
+            "id": "RUB",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/rub.svg",
+            "emoji": "🇷🇺"
+        },
+        {
+            "name": "Rwandan franc",
+            "symbol": "Fr",
+            "id": "RWF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/rwf.svg",
+            "emoji": "🇷🇼"
+        },
+        {
+            "name": "Saudi riyal",
+            "symbol": "ر.س",
+            "id": "SAR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/sar.svg",
+            "emoji": "🇸🇦"
+        },
+        {
+            "name": "Solomon Islands dollar",
+            "symbol": "$",
+            "id": "SBD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/sbd.svg"
+        },
+        {
+            "name": "Seychellois rupee",
+            "symbol": "₨",
+            "id": "SCR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/scr.svg",
+            "emoji": "🇸🇨"
+        },
+        {
+            "name": "Swedish krona",
+            "symbol": "kr",
+            "id": "SEK",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/sek.svg",
+            "emoji": "🇸🇪"
+        },
+        {
+            "name": "Singapore dollar",
+            "symbol": "$",
+            "id": "SGD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/sgd.svg",
+            "emoji": "🇸🇬"
+        },
+        {
+            "name": "Saint Helena pound",
+            "symbol": "£",
+            "id": "SHP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/shp.svg",
+            "emoji": "🇸🇭"
+        },
+        {
+            "name": "Sierra Leonean leone",
+            "symbol": "Le",
+            "id": "SLL",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/sll.svg",
+            "emoji": "🇸🇱"
+        },
+        {
+            "name": "Somali shilling",
+            "symbol": "Sh",
+            "id": "SOS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/sos.svg",
+            "emoji": "🇸🇴"
+        },
+        {
+            "name": "Surinamese dollar",
+            "symbol": "$",
+            "id": "SRD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/srd.svg",
+            "emoji": "🇸🇷"
+        },
+        {
+            "name": "Syrian pound",
+            "symbol": "£",
+            "id": "SYP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/syp.svg",
+            "emoji": "🇸🇾"
+        },
+        {
+            "name": "Thai baht",
+            "symbol": "฿",
+            "id": "THB",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/thb.svg",
+            "emoji": "🇹🇭"
+        },
+        {
+            "name": "Tajikistani somoni",
+            "symbol": "ЅМ",
+            "id": "TJS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/tjs.svg",
+            "emoji": "🇹🇯"
+        },
+        {
+            "name": "Turkmenistani manat",
+            "symbol": "m",
+            "id": "TMT",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/tmt.svg",
+            "emoji": "🇹🇲"
+        },
+        {
+            "name": "Tunisian dinar",
+            "symbol": "د.ت",
+            "id": "TND",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/tnd.svg",
+            "emoji": "🇹🇳"
+        },
+        {
+            "name": "Tongan paʻanga",
+            "symbol": "T$",
+            "id": "TOP",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/top.svg",
+            "emoji": "🇹🇴"
+        },
+        {
+            "name": "Turkish lira",
+            "symbol": "₺",
+            "id": "TRY",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/try.svg",
+            "emoji": "🇹🇷"
+        },
+        {
+            "name": "Trinidad and Tobago dollar",
+            "symbol": "$",
+            "id": "TTD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ttd.svg",
+            "emoji": "🇹🇹"
+        },
+        {
+            "name": "New Taiwan dollar",
+            "symbol": "$",
+            "id": "TWD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/twd.svg",
+            "emoji": "🇹🇼"
+        },
+        {
+            "name": "Tanzanian shilling",
+            "symbol": "Sh",
+            "id": "TZS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/tzs.svg",
+            "emoji": "🇹🇿"
+        },
+        {
+            "name": "Ukrainian hryvnia",
+            "symbol": "₴",
+            "id": "UAH",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/uah.svg",
+            "emoji": "🇺🇦"
+        },
+        {
+            "name": "Ugandan shilling",
+            "symbol": "Sh",
+            "id": "UGX",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/ugx.svg",
+            "emoji": "🇺🇬"
+        },
+        {
+            "name": "United States dollar",
+            "symbol": "$",
+            "id": "USD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/usd.svg",
+            "emoji": "🇺🇸"
+        },
+        {
+            "name": "Uruguayan peso",
+            "symbol": "$",
+            "id": "UYU",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/uyu.svg",
+            "emoji": "🇺🇾"
+        },
+        {
+            "name": "Uzbekistani som",
+            "symbol": "Ўзб",
+            "id": "UZS",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/uzs.svg",
+            "emoji": "🇺🇿"
+        },
+        {
+            "name": "Venezuelan bolívar",
+            "symbol": "Bs",
+            "id": "VEF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/vef.svg",
+            "emoji": "🇻🇪"
+        },
+        {
+            "name": "Vietnamese đồng",
+            "symbol": "₫",
+            "id": "VND",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/vnd.svg",
+            "emoji": "🇻🇳"
+        },
+        {
+            "name": "Vanuatu vatu",
+            "symbol": "Vt",
+            "id": "VUV",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/vuv.svg",
+            "emoji": "🇻🇺"
+        },
+        {
+            "name": "Samoan tālā",
+            "symbol": "T",
+            "id": "WST",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/wst.svg",
+            "emoji": "🇼🇸"
+        },
+        {
+            "name": "Central African CFA franc",
+            "symbol": "Fr",
+            "id": "XAF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/xaf.svg",
+            "emoji": "🇨🇫"
+        },
+        {
+            "name": "East Caribbean dollar",
+            "symbol": "$",
+            "id": "XCD",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/xcd.svg",
+            "emoji": "🇦🇬"
+        },
+        {
+            "name": "West African CFA franc",
+            "symbol": "Fr",
+            "id": "XOF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/xof.svg",
+            "emoji": "🇧🇯"
+        },
+        {
+            "name": "CFP franc",
+            "symbol": "Fr",
+            "id": "XPF",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/xpf.svg",
+            "emoji": "🇵🇫"
+        },
+        {
+            "name": "Yemeni rial",
+            "symbol": "﷼",
+            "id": "YER",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/yer.svg",
+            "emoji": "🇾🇪"
+        },
+        {
+            "name": "South African rand",
+            "symbol": "R",
+            "id": "ZAR",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/zar.svg",
+            "emoji": "🇿🇦"
+        },
+        {
+            "name": "Zambian kwacha",
+            "symbol": "ZK",
+            "id": "ZMW",
+            "flag": "https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/zmw.svg",
+            "emoji": "🇿🇲"
+        }
+    ]
+}
