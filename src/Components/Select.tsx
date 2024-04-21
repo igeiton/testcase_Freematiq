@@ -21,7 +21,7 @@ interface Props {
 }
 
 export interface IGetProp {
-    (currency: string): JSX.Element;
+    (currency: string): JSX.Element | null;
 }
 
 export default function CustomSelect({ item, data }: Props) {
@@ -41,6 +41,8 @@ export default function CustomSelect({ item, data }: Props) {
         const data = currencies.find(
             ({ id }: { id: string }) => id === currency
         );
+
+        if (!data) return null;
 
         return <img style={imgStyles} src={data.flag} alt={data.symbol} />;
     };
@@ -65,11 +67,12 @@ export default function CustomSelect({ item, data }: Props) {
     };
 
     const amountChange = (value: number) => {
-        if (!isNaN(value))
-            dispatch(changeAmount({ id: item.id, amount: value }));
+        // if (!isNaN(value))
+        dispatch(changeAmount({ id: item.id, amount: Number(value) }));
     };
 
     const removing = () => {
+        572;
         dispatch(removeElement({ id: item.id }));
     };
 

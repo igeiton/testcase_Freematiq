@@ -1,5 +1,5 @@
 // UI components
-import { Select, TextField } from '@mui/material';
+import { Select, Skeleton, TextField } from '@mui/material';
 import { ContainerSX, MenuItemSX, TypographySX } from './Styled/Styled';
 
 // Interfaces
@@ -32,14 +32,27 @@ export default function FiatsContainer({
 
     return (
         <ContainerSX>
-            <TextField
-                label={getSymbol(to)}
-                type="text"
-                value={isFetching ? 'counting...' : amount * conversion_rate}
-                onChange={(e: any) =>
-                    amountChange(e.target.value / conversion_rate)
-                }
-            />
+            {isFetching ? (
+                <Skeleton
+                    component={'div'}
+                    variant="text"
+                    animation="wave"
+                    sx={{ height: 50, flex: '1 1 60%' }}
+                />
+            ) : (
+                <TextField
+                    sx={{ height: 50, flex: '1 1 60%' }}
+                    variant="standard"
+                    label={getSymbol(to)}
+                    type="number"
+                    value={Number(
+                        (amount * conversion_rate).toFixed(10)
+                    ).toString()}
+                    onChange={(e: any) => {
+                        amountChange(e.target.value / conversion_rate);
+                    }}
+                />
+            )}
 
             <Select
                 sx={{ flex: '1 1 40%' }}

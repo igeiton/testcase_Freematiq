@@ -1,5 +1,5 @@
 // UI components
-import { Select, TextField } from '@mui/material';
+import { Select, Skeleton, TextField } from '@mui/material';
 import { ContainerSX, MenuItemSX, TypographySX } from './Styled/Styled';
 
 // Interfaces
@@ -30,15 +30,26 @@ export default function InputContainer({
 
     return (
         <ContainerSX>
-            <TextField
-                label={getSymbol(from)}
-                type="text"
-                value={isFetching ? 'counting...' : amount * 1}
-                onChange={(e: any) => amountChange(e.target.value)}
-            />
+            {isFetching ? (
+                <Skeleton
+                    component={'div'}
+                    variant="text"
+                    animation="wave"
+                    sx={{ height: 50, flex: '1 1 60%' }}
+                />
+            ) : (
+                <TextField
+                    sx={{ flex: '1 1 60%', height: '100%' }}
+                    variant="standard"
+                    label={getSymbol(from)}
+                    type="number"
+                    value={Number(amount.toFixed(10)).toString()}
+                    onChange={(e: any) => amountChange(e.target.value)}
+                />
+            )}
 
             <Select
-                sx={{ flex: '1 1 40%', display: 'flex' }}
+                sx={{ flex: '0 1 40%', display: 'flex' }}
                 value={from}
                 onChange={(e: any) => updatingSelect('from', e.target.value)}
             >
